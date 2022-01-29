@@ -1,6 +1,6 @@
 ### Bem-vindo(a) 👋
 
-Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e atualmente estou a procura de uma oportunidade como desenvolvedor back-end.
+Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e estou a procura de uma oportunidade como desenvolvedor back-end.
 
 <br />
 
