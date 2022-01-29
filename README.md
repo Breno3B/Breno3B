@@ -141,6 +141,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
   </p>
   
   <br />
+  <br />
   
   <p>
     <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
