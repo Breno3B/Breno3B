@@ -118,7 +118,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     </a>
     &nbsp;&nbsp;
     <a target="_blank" href="https://www.heroku.com/">
-      <img alt="Python" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
+      <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
     </a>
     &nbsp;&nbsp;
     <a target="_blank" href="https://www.postman.com/">
@@ -136,22 +136,18 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Estatísticas:**
 
-<div>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
+    <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
   </p>
   
-  <br  />
-    
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
+    <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
   </p>
   
   <br />
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=breno3b" alt="breno3b" />
   </p>
-</div>
 
 <br />
 <br />
