@@ -8,9 +8,9 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
   <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
-  <a href="https://github.com/Breno3B" target="_blank">
+<!--   <a href="https://github.com/Breno3B" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-  </a>
+  </a> -->
   <a href="mailto:brenorm@gmail.com?Subject=Título%20da%20mensagem">
     <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" width="48px" height="48px" alt="Gmail de Breno Rodrigues">
   </a>
