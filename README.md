@@ -59,19 +59,19 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 <div>
   <div>
     <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
-      <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img alt="html5" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"/>
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
-      <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <img alt="css3" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
-      <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img alt="Java script" width="38px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
-      <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="React" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://redux.js.org/">
@@ -83,7 +83,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
-      <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+      <img alt="Node js" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
@@ -103,7 +103,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://docs.python.org/" rel="nofollow">
-      <img alt="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img alt="Python" width="38px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
     </a>
   </div>
   <div>
