@@ -24,8 +24,6 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Sobre meus estudos:**
 
-<br />
-
 <div>
   <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
   <p>
@@ -48,8 +46,6 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Meus interesses pessoais:**
 
-<br />
-
   - 👨🏽‍💻 A procura de conhecimento para evoluir na carreira de desenvolvedor;
   - 🚲 Meu hobby é ciclismo de montanha;
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
@@ -59,8 +55,6 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 <br />
 
 **Linguagens e ferramentas:**
-
-<br />
 
 <div>
   <div>
@@ -113,7 +107,15 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     </a>
   </div>
   <div>
-    &nbsp;&nbsp;
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
+      <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://code.visualstudio.com/">
+      <img alt="VS Code" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+    </a>
+      &nbsp;&nbsp;
     <a target="_blank" href="https://git-scm.com/" rel="nofollow">
       <img alt="Git" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
     </a>
@@ -125,14 +127,6 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     <a target="_blank" href="https://www.postman.com/">
       <img alt="Postman" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />
     </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://code.visualstudio.com/">
-      <img alt="VS Code" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
-      <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
-    </a>
   </div>
 </div>
 
@@ -141,14 +135,12 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Estatísticas:**
 
-<br />
-
 <div>
   <div>
-    <img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
+    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
   </div>
   <div>
-    <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
   </div>  
 </div>
 <br />
