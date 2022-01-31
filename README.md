@@ -29,20 +29,25 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 **Sobre meus estudos:**
 
 <div>
-  <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
-  <p>
-    - <a target="_blank" href="https://drive.google.com/file/d/1Xo6HkJIyjPRv8Rq2IWJoc_KfWkbUN5fh/view?usp=sharing">
-      Certificado - Fundamentos de Desenvolvimento Web | Trybe
-    </a>
-    <br>
-    - <a target="_blank" href="https://drive.google.com/file/d/1EZOoLnwb6aXQEb3TW1kbpRlE84bwY1m8/view?usp=sharing">
-      Certificado - Front-End | Trybe
-    </a>
-    <br>
-    - <a target="_blank" href="https://drive.google.com/file/d/1ZImgg1ZhPa9jhBFgfqu1mOPYmZ2yPokX/view?usp=sharing">
-      Certificado - Back-End | Trybe
-    </a>
-  </p>
+  <div>
+    <img align="right" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="400" frameBorder="0" class="giphy-embed" ></img>
+  </div>
+  <div>
+    <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
+    <p>
+      - <a target="_blank" href="https://drive.google.com/file/d/1Xo6HkJIyjPRv8Rq2IWJoc_KfWkbUN5fh/view?usp=sharing">
+        Certificado - Fundamentos de Desenvolvimento Web | Trybe
+      </a>
+      <br>
+      - <a target="_blank" href="https://drive.google.com/file/d/1EZOoLnwb6aXQEb3TW1kbpRlE84bwY1m8/view?usp=sharing">
+        Certificado - Front-End | Trybe
+      </a>
+      <br>
+      - <a target="_blank" href="https://drive.google.com/file/d/1ZImgg1ZhPa9jhBFgfqu1mOPYmZ2yPokX/view?usp=sharing">
+        Certificado - Back-End | Trybe
+      </a>
+    </p>
+  </div>
 </div>
 
 <br />
