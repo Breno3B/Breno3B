@@ -4,6 +4,10 @@
 
 Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e estou a procura de uma oportunidade como desenvolvedor back-end.
 
+<br />
+
+**Entre em contato comigo:**
+
 <div>
   <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
