@@ -1,8 +1,8 @@
 ### Bem-vindo(a) 👋
 
-Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e estou a procura de uma oportunidade como desenvolvedor back-end.
-
 <br />
+
+Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e estou a procura de uma oportunidade como desenvolvedor back-end.
 
 <div>
   <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
@@ -23,6 +23,8 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 <br />
 
 **Sobre meus estudos:**
+
+<br />
 
 <div>
   <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
@@ -46,6 +48,8 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Meus interesses pessoais:**
 
+<br />
+
   - 👨🏽‍💻 A procura de conhecimento para evoluir na carreira de desenvolvedor;
   - 🚲 Meu hobby é ciclismo de montanha;
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
@@ -56,81 +60,79 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Linguagens e ferramentas:**
 
-<div id="tools">
+<br />
+
+<div>
   <div>
-    <p>
-      <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
-        <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
-        <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
-        <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
-        <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://redux.js.org/">
-        <img alt="Redux" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://jestjs.io/pt-BR/">
-        <img alt="Jest" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
-        <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
-        <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
-        <img alt="MongoDB" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
-        <img alt="Mysql" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://dev.mysql.com/doc/workbench/en/" rel="nofollow">
-        <img alt="Mysql Workbench" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://docs.python.org/" rel="nofollow">
-        <img alt="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      </a>
-    </p>    
+    <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
+      <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
+      <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
+      <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
+      <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://redux.js.org/">
+      <img alt="Redux" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://jestjs.io/pt-BR/">
+      <img alt="Jest" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
+      <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
+      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
+      <img alt="MongoDB" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
+      <img alt="Mysql" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://dev.mysql.com/doc/workbench/en/" rel="nofollow">
+      <img alt="Mysql Workbench" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://docs.python.org/" rel="nofollow">
+      <img alt="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </a>
   </div>
   <div>
-    <p>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://git-scm.com/" rel="nofollow">
+      <img alt="Git" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
+    </a>
       &nbsp;&nbsp;
-      <a target="_blank" href="https://git-scm.com/" rel="nofollow">
-        <img alt="Git" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://www.heroku.com/">
-        <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://www.postman.com/">
-        <img alt="Postman" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://code.visualstudio.com/">
-        <img alt="VS Code" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-      </a>
-        &nbsp;&nbsp;
-      <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
-        <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
-      </a>
-    </p>    
+    <a target="_blank" href="https://www.heroku.com/">
+      <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://www.postman.com/">
+      <img alt="Postman" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://code.visualstudio.com/">
+      <img alt="VS Code" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
+      <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
+    </a>
   </div>
 </div>
 
@@ -139,26 +141,27 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Estatísticas:**
 
-  <p>
+<br />
+
+<div>
+  <div>
     <img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
-  </p>
-  
-  <br />
-  <br />
-  
-  <p>
+  </div>
+  <div>
     <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
-  </p>
-  
-  <br />
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=breno3b" alt="breno3b" />
-  </p>
+  </div>  
+</div>
+<br />
+<div>
+  <div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=breno3b" alt="breno3b" />
+  </div>  
+</div>
 
 <br />
 <br />
 
-⭐️ Baseado em:
+⭐️ Inspirado em:
 
 - [Johnatas Henrique](https://github.com/johnatas-henrique)
 - [Pedro Toselli](https://github.com/Pedro-Toselli)
