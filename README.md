@@ -55,7 +55,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Meus interesses pessoais:**
 
-  - 👨 Tenho 42 anos;
+  - 👨 Tenho 43 anos;
   - 👦👩👩 Três filhos;
   - 👨🏽‍💻 Apaixonado por tecnologia desde 1995, quando aprendi Lotus 123;
   - 🚲 Meu hobby é ciclismo de montanha (MTB);
