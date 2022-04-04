@@ -33,7 +33,7 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
     <img align="right" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="400" frameBorder="0" class="giphy-embed" ></img>
   </div>
   <div>
-    <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
+    <p> Em Março/2022 conclui o curso de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
     <p>
       - <a target="_blank" href="https://drive.google.com/file/d/1Xo6HkJIyjPRv8Rq2IWJoc_KfWkbUN5fh/view?usp=sharing">
         Certificado - Fundamentos de Desenvolvimento Web | Trybe
