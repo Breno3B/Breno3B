@@ -2,7 +2,7 @@
 
 <br />
 
-Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e estou a procura de uma oportunidade como desenvolvedor back-end.
+Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e atuo como Engenheiro de Software na [Agilize Contabilidade Online](https://agilize.com.br/).
 
 <br />
 
