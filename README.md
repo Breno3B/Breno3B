@@ -2,14 +2,14 @@
 
 <br />
 
-Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e atuo como Engenheiro de Software na [Agilize Contabilidade Online](https://agilize.com.br/).
+Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e atualmente atuo como investidor.
 
 <br />
 
 **Entre em contato comigo:**
 
 <div>
-  <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
 <!--   <a href="https://github.com/Breno3B" target="_blank">
@@ -55,10 +55,11 @@ Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e
 
 **Meus interesses pessoais:**
 
-  - 👨 Tenho 44 anos;
+  - 👨 Tenho 46 anos;
   - 👦👩👩 Três filhos;
   - 👨🏽‍💻 Apaixonado por tecnologia desde 1995, quando aprendi Lotus 123;
   - 🚲 Meu hobby é ciclismo de montanha (MTB);
+  - 💵 Redireceionei minha atenção para investimentos em criptomoedas e mercado imobiliário;
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
   <!-- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. -->
 
