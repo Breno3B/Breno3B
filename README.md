@@ -2,7 +2,16 @@
 
 <br />
 
-Olá, me chamo **Breno Rodrigues Magalhães**, sou de Belo Horizonte/MG/Brasil e atualmente atuo como investidor.
+## 👋 Olá, eu sou o Breno
+
+Desenvolvedor com experiência em backend, atualmente em transição para a área de Dados e Inteligência Artificial.
+
+Tenho experiência com desenvolvimento de APIs e resolução de problemas em produção, além de uma base sólida em sistemas após anos atuando com infraestrutura em ambientes complexos.
+
+Atualmente estou focado em:
+- Python para análise de dados
+- SQL e manipulação de dados
+- Fundamentos de Machine Learning
 
 <br />
 
