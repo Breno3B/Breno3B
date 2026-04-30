@@ -18,7 +18,7 @@ Atualmente estou focado em:
 **Entre em contato comigo:**
 
 <div>
-<!--   <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
+  <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
 <!--   <a href="https://github.com/Breno3B" target="_blank">
@@ -39,9 +39,6 @@ Atualmente estou focado em:
 
 <div>
   <div>
-    <img align="right" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="400" frameBorder="0" class="giphy-embed" ></img>
-  </div>
-  <div>
     <p> Em Março/2022 concluí o curso de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
     <p>
       - <a target="_blank" href="https://drive.google.com/file/d/1Xo6HkJIyjPRv8Rq2IWJoc_KfWkbUN5fh/view?usp=sharing">
@@ -58,19 +55,6 @@ Atualmente estou focado em:
     </p>
   </div>
 </div>
-
-<br />
-<br />
-
-**Meus interesses pessoais:**
-
-  - 👨 Tenho 46 anos;
-  - 👦👩👩 Três filhos;
-  - 👨🏽‍💻 Apaixonado por tecnologia desde 1995, quando aprendi Lotus 123;
-  - 🚲 Meu hobby é ciclismo de montanha (MTB);
-  - 💵 Redireceionei minha atenção para investimentos em criptomoedas e mercado imobiliário;
-  - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-  <!-- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. -->
 
 <br />
 <br />
@@ -173,8 +157,3 @@ Atualmente estou focado em:
 
 <br />
 <br />
-
-⭐️ Inspirado em:
-
-- [Johnatas Henrique](https://github.com/johnatas-henrique)
-- [Pedro Toselli](https://github.com/Pedro-Toselli)
