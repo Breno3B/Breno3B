@@ -4,7 +4,7 @@
 
 ## 👋 Olá, eu sou o Breno
 
-Desenvolvedor com experiência em backend, atualmente em transição para a área de Dados e Inteligência Artificial.
+Desenvolvedor júnior backend, atualmente focando meus estudos na área de Dados e Inteligência Artificial.
 
 Tenho experiência com desenvolvimento de APIs e resolução de problemas em produção, além de uma base sólida em sistemas após anos atuando com infraestrutura em ambientes complexos.
 
