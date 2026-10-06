@@ -1,159 +1,86 @@
-## Bem-vindo(a) 👋
+# Breno Rodrigues Magalhães
 
-<br />
+### Backend Developer | Python | APIs REST | PostgreSQL | Docker
 
-## 👋 Olá, eu sou o Breno
+Profissional de tecnologia com experiência em desenvolvimento backend, infraestrutura e ambientes de produção.
 
-Desenvolvedor júnior backend, atualmente focando meus estudos na área de Dados e Inteligência Artificial.
+Minha experiência profissional mais recente em desenvolvimento foi com **PHP/Laravel, PostgreSQL e APIs REST**. Atualmente estou direcionando minha carreira para **Python**, linguagem que estudei durante minha formação Full Stack e que venho retomando através de projetos pessoais.
 
-Tenho experiência com desenvolvimento de APIs e resolução de problemas em produção, além de uma base sólida em sistemas após anos atuando com infraestrutura em ambientes complexos.
+Também venho explorando **AI-assisted development**, utilizando IA generativa para apoiar especificação, implementação, refatoração, documentação, testes e revisão de soluções.
 
-Atualmente estou focado em:
-- Python para análise de dados
-- SQL e manipulação de dados
-- Fundamentos de Machine Learning
+---
 
-<br />
+## 🚀 O que estou construindo agora
 
-**Entre em contato comigo:**
+### SeuLeilão
 
-<div>
-  <a href="https://www.linkedin.com/in/brenorm/" target="_blank">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-  </a>
-<!--   <a href="https://github.com/Breno3B" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-  </a> -->
-  <a href="mailto:brenorm@gmail.com?Subject=Título%20da%20mensagem">
-    <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" width="48px" height="48px" alt="Gmail de Breno Rodrigues">
-  </a>
-  <a href="https://www.instagram.com/breno3b/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-  </a>
-</div>
+Plataforma em desenvolvimento para apoiar a análise e tomada de decisão na aquisição de imóveis em leilão.
 
-<br />
-<br />
+**Tecnologias e conceitos presentes no projeto:**
 
-**Sobre meus estudos:**
+- Python / Django
+- PostgreSQL
+- Redis e Celery
+- Docker
+- Testes automatizados
+- Coleta e processamento de dados
+- Documentação técnica e ADRs
+- Fluxos de revisão e validação
 
-<div>
-  <div>
-    <p> Em Março/2022 concluí o curso de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>
-    <p>
-      - <a target="_blank" href="https://drive.google.com/file/d/1Xo6HkJIyjPRv8Rq2IWJoc_KfWkbUN5fh/view?usp=sharing">
-        Certificado - Fundamentos de Desenvolvimento Web | Trybe
-      </a>
-      <br>
-      - <a target="_blank" href="https://drive.google.com/file/d/1EZOoLnwb6aXQEb3TW1kbpRlE84bwY1m8/view?usp=sharing">
-        Certificado - Front-End | Trybe
-      </a>
-      <br>
-      - <a target="_blank" href="https://drive.google.com/file/d/1ZImgg1ZhPa9jhBFgfqu1mOPYmZ2yPokX/view?usp=sharing">
-        Certificado - Back-End | Trybe
-      </a>
-    </p>
-  </div>
-</div>
+O projeto utiliza desenvolvimento assistido por IA de forma intensiva, com definição de requisitos, criação e refinamento de prompts, revisão de soluções, testes e evolução iterativa.
 
-<br />
-<br />
+> O repositório permanece privado enquanto o produto evolui para uma solução operacional.
 
-**Linguagens e ferramentas:**
+---
 
-<div>
-  <div>
-    <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
-      <img alt="html5" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"/>
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
-      <img alt="css3" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
-      <img alt="Java script" width="38px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
-      <img alt="React" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://redux.js.org/">
-      <img alt="Redux" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://jestjs.io/pt-BR/">
-      <img alt="Jest" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
-      <img alt="Node js" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
-      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
-      <img alt="MongoDB" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
-      <img alt="Mysql" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://dev.mysql.com/doc/workbench/en/" rel="nofollow">
-      <img alt="Mysql Workbench" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://docs.python.org/" rel="nofollow">
-      <img alt="Python" width="38px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
-    </a>
-  </div>
-  <div>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
-      <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://code.visualstudio.com/">
-      <img alt="VS Code" width="38px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://git-scm.com/" rel="nofollow">
-      <img alt="Git" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://www.heroku.com/">
-      <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
-    </a>
-      &nbsp;&nbsp;
-    <a target="_blank" href="https://www.postman.com/">
-      <img alt="Postman" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />
-    </a>
-  </div>
-</div>
+## 🧪 Outros projetos
 
-<br />
-<br />
+### [ClaraMente](https://github.com/Breno3B/dio-lab-bia-do-futuro)
+Agente local para análise de dados financeiros pessoais fictícios, desenvolvido em Python com pandas, Streamlit e LLM local.
 
-**Estatísticas:**
+### [Fraud Detection Model Comparison](https://github.com/Breno3B/dio-fraud-detection-model-comparison)
+Comparação de modelos de Machine Learning para detecção de fraudes, incluindo Logistic Regression, Random Forest, XGBoost e SHAP.
 
-<!-- <div>
-<div>
-  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=breno3b&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="breno3b" />
-</div>
-<div>
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno3b&layout=compact&theme=dracula&title_color=268bd2" alt="breno3b" />
-</div>  
-</div> -->
-<br />
-<div>
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=breno3b" alt="breno3b" />
-</div>  
-</div>
+### [Agilize Backend Challenge](https://github.com/Breno3B/agilize-backend-challenge)
+Desafio backend em Python/Flask com web scraping, banco relacional e API REST.
 
-<br />
-<br />
+---
+
+## 🧰 Stack
+
+### Atual
+
+`Python` `PostgreSQL` `REST APIs` `Docker` `Git` `Linux`
+
+### Experiência profissional
+
+`PHP` `Laravel` `PHPUnit` `Bitbucket` `Composer` `Postman`
+
+### Também estudei / utilizei
+
+`JavaScript` `Node.js` `React` `SQL`
+
+---
+
+## 💼 Experiência
+
+Atuei profissionalmente no desenvolvimento e manutenção de aplicações backend, APIs REST e regras de negócio, além de investigação e correção de bugs em produção.
+
+Minha trajetória anterior em tecnologia inclui testes de software, infraestrutura, suporte, operações e coordenação de equipes em ambientes corporativos e de missão crítica.
+
+---
+
+## 📚 Atualmente
+
+- Retomando e aprofundando Python para backend
+- Desenvolvendo projetos pessoais com foco em aplicações reais
+- Utilizando IA generativa como ferramenta de engenharia de software
+- Estudando automação, dados e aplicações de IA
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/brenorm/) · [E-mail](mailto:brenorm@gmail.com)
+
+<!-- Estatísticas opcionais: use somente se decidir que agregam valor ao perfil. -->
