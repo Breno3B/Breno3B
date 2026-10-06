@@ -4,9 +4,9 @@
 
 Profissional de tecnologia com experiência em desenvolvimento backend, infraestrutura e ambientes de produção.
 
-Minha experiência profissional mais recente em desenvolvimento foi com **PHP/Laravel, PostgreSQL e APIs REST**. Atualmente estou direcionando minha carreira para **Python**, linguagem que estudei durante minha formação Full Stack e que venho retomando através de projetos pessoais.
+Minha experiência profissional mais recente em desenvolvimento foi com **PHP/Laravel, PostgreSQL e APIs REST**. Atualmente estou direcionando minha carreira para **Python e desenvolvimento backend**, área que venho retomando por meio de estudos e projetos pessoais.
 
-Também venho explorando **AI-assisted development**, utilizando IA generativa para apoiar especificação, implementação, refatoração, documentação, testes e revisão de soluções.
+Também utilizo **AI-assisted development**, empregando IA generativa como ferramenta de apoio à especificação, implementação, refatoração, documentação, testes e revisão técnica de soluções.
 
 ---
 
@@ -18,7 +18,7 @@ Plataforma em desenvolvimento para apoiar a análise e tomada de decisão na aqu
 
 **Tecnologias e conceitos presentes no projeto:**
 
-- Python / Django
+- Python · Django
 - PostgreSQL
 - Redis e Celery
 - Docker
@@ -27,7 +27,7 @@ Plataforma em desenvolvimento para apoiar a análise e tomada de decisão na aqu
 - Documentação técnica e ADRs
 - Fluxos de revisão e validação
 
-O projeto utiliza desenvolvimento assistido por IA de forma intensiva, com definição de requisitos, criação e refinamento de prompts, revisão de soluções, testes e evolução iterativa.
+O projeto utiliza desenvolvimento assistido por IA de forma intensiva, com definição de requisitos, criação e refinamento de prompts, validação e revisão técnica das soluções geradas, testes e evolução iterativa.
 
 > O repositório permanece privado enquanto o produto evolui para uma solução operacional.
 
@@ -36,13 +36,16 @@ O projeto utiliza desenvolvimento assistido por IA de forma intensiva, com defin
 ## 🧪 Outros projetos
 
 ### [ClaraMente](https://github.com/Breno3B/dio-lab-bia-do-futuro)
+
 Agente local para análise de dados financeiros pessoais fictícios, desenvolvido em Python com pandas, Streamlit e LLM local.
 
 ### [Fraud Detection Model Comparison](https://github.com/Breno3B/dio-fraud-detection-model-comparison)
+
 Comparação de modelos de Machine Learning para detecção de fraudes, incluindo Logistic Regression, Random Forest, XGBoost e SHAP.
 
 ### [Agilize Backend Challenge](https://github.com/Breno3B/agilize-backend-challenge)
-Desafio backend em Python/Flask com web scraping, banco relacional e API REST.
+
+Desafio seletivo para backend desenvolvido em Python/Flask, com web scraping, persistência em banco relacional e disponibilização dos dados via API REST.
 
 ---
 
@@ -50,7 +53,7 @@ Desafio backend em Python/Flask com web scraping, banco relacional e API REST.
 
 ### Atual
 
-`Python` `PostgreSQL` `REST APIs` `Docker` `Git` `Linux`
+`Python` `Django` `PostgreSQL` `REST APIs` `Docker` `Git` `Linux`
 
 ### Experiência profissional
 
@@ -64,9 +67,24 @@ Desafio backend em Python/Flask com web scraping, banco relacional e API REST.
 
 ## 💼 Experiência
 
-Atuei profissionalmente no desenvolvimento e manutenção de aplicações backend, APIs REST e regras de negócio, além de investigação e correção de bugs em produção.
+Atuei profissionalmente no desenvolvimento e manutenção de aplicações backend, APIs REST e regras de negócio.
 
-Minha trajetória anterior em tecnologia inclui testes de software, infraestrutura, suporte, operações e coordenação de equipes em ambientes corporativos e de missão crítica.
+Minha experiência inclui investigação e correção de bugs em ambientes de desenvolvimento, homologação e produção, com atividades como:
+
+- reprodução de problemas;
+- análise de logs;
+- consultas em PostgreSQL;
+- validação de dados;
+- testes de APIs com Postman;
+- análise de requests e responses;
+- debugging;
+- criação de logs temporários;
+- execução e criação de testes;
+- correção de código;
+- abertura de pull requests;
+- acompanhamento do processo de deploy.
+
+Também possuo uma trajetória anterior em tecnologia com experiência em testes de software, infraestrutura, suporte, operações e coordenação de equipes em ambientes corporativos e de missão crítica.
 
 ---
 
@@ -75,7 +93,7 @@ Minha trajetória anterior em tecnologia inclui testes de software, infraestrutu
 - Retomando e aprofundando Python para backend
 - Desenvolvendo projetos pessoais com foco em aplicações reais
 - Utilizando IA generativa como ferramenta de engenharia de software
-- Estudando automação, dados e aplicações de IA
+- Aprofundando conhecimentos em backend, automação e aplicações de IA
 
 ---
 
@@ -83,8 +101,7 @@ Minha trajetória anterior em tecnologia inclui testes de software, infraestrutu
 
 [LinkedIn](https://www.linkedin.com/in/brenorm/) · [E-mail](mailto:brenorm@gmail.com)
 
-<!-- Estatísticas opcionais: use somente se decidir que agregam valor ao perfil. 
-
+<!--
 ## 📊 GitHub
 
 <p>
@@ -92,4 +109,5 @@ Minha trajetória anterior em tecnologia inclui testes de software, infraestrutu
     src="https://github-readme-stats.vercel.app/api?username=Breno3B&show_icons=true&hide_title=true"
     alt="GitHub stats"
   />
-</p> -->
+</p>
+-->
