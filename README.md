@@ -83,4 +83,13 @@ Minha trajetória anterior em tecnologia inclui testes de software, infraestrutu
 
 [LinkedIn](https://www.linkedin.com/in/brenorm/) · [E-mail](mailto:brenorm@gmail.com)
 
-<!-- Estatísticas opcionais: use somente se decidir que agregam valor ao perfil. -->
+<!-- Estatísticas opcionais: use somente se decidir que agregam valor ao perfil. 
+
+## 📊 GitHub
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Breno3B&show_icons=true&hide_title=true"
+    alt="GitHub stats"
+  />
+</p> -->
