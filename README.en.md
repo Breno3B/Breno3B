@@ -16,11 +16,11 @@ Personal **work-in-progress** platform for real-estate auction analysis and deci
 
 **[View showcase (EN)](https://breno3b.github.io/seu-leilao-showcase/en/)** · **[Português](https://breno3b.github.io/seu-leilao-showcase/)**
 
-### 🧠 [ClaraMente — local AI agent](https://github.com/Breno3B/ClaraMente)
+### 🧠 [ClaraMente — local AI agent](https://github.com/Breno3B/agente-local-ia-financeiro)
 
 Educational project analyzing fictional personal finance data using **Python, pandas, Streamlit, Ollama, and Qwen3:4b**. The original Python application runs locally. GitHub Pages hosts a **static interactive demonstration** with predefined answers, without running a language model.
 
-**[Try the demo (EN)](https://breno3b.github.io/ClaraMente/en/)** · **[Português](https://breno3b.github.io/ClaraMente/)**
+**[Try the demo (EN)](https://breno3b.github.io/agente-local-ia-financeiro/en/)** · **[Português](https://breno3b.github.io/agente-local-ia-financeiro/)**
 
 ### 📊 [Brazilian Transparency Portal — public data pipeline](https://github.com/Breno3B/portal-transparencia-scraping)
 
