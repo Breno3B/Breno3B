@@ -16,11 +16,11 @@ Plataforma pessoal **em desenvolvimento** para análise de imóveis em leilão e
 
 **[Ver apresentação (PT)](https://breno3b.github.io/seu-leilao-showcase/)** · **[English](https://breno3b.github.io/seu-leilao-showcase/en/)**
 
-### 🧠 [ClaraMente — agente local de IA](https://github.com/Breno3B/ClaraMente)
+### 🧠 [ClaraMente — agente local de IA](https://github.com/Breno3B/agente-local-ia-financeiro)
 
 Projeto educacional de análise de finanças pessoais fictícias com **Python, pandas, Streamlit, Ollama e Qwen3:4b**. A aplicação original roda localmente; o GitHub Pages oferece uma **demonstração estática interativa**, com respostas predefinidas, sem executar o modelo de IA.
 
-**[Experimentar demonstração (PT)](https://breno3b.github.io/ClaraMente/)** · **[English](https://breno3b.github.io/ClaraMente/en/)**
+**[Experimentar demonstração (PT)](https://breno3b.github.io/agente-local-ia-financeiro/)** · **[English](https://breno3b.github.io/agente-local-ia-financeiro/en/)**
 
 ### 📊 [Portal da Transparência — integração de dados](https://github.com/Breno3B/portal-transparencia-scraping)
 
