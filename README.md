@@ -1,113 +1,54 @@
 # Breno Rodrigues Magalhães
 
-### Backend Developer | Python | APIs REST | PostgreSQL | Docker
+### Desenvolvedor Backend | Python · APIs REST · PostgreSQL · Desenvolvimento assistido por IA
 
-Profissional de tecnologia com experiência em desenvolvimento backend, infraestrutura e ambientes de produção.
+[🇧🇷 Português](README.md) · [🇺🇸 English](README.en.md)
 
-Minha experiência profissional mais recente em desenvolvimento foi com **PHP/Laravel, PostgreSQL e APIs REST**. Atualmente estou direcionando minha carreira para **Python e desenvolvimento backend**, área que venho retomando por meio de estudos e projetos pessoais.
+Desenvolvedor com experiência profissional em **APIs REST, regras de negócio, PostgreSQL e manutenção de sistemas em produção**. Trabalhei com **PHP/Laravel** na Agilize e tenho uma trajetória anterior em testes de software, infraestrutura e operações de TI.
 
-Também utilizo **AI-assisted development**, empregando IA generativa como ferramenta de apoio à especificação, implementação, refatoração, documentação, testes e revisão técnica de soluções.
+Atualmente concentro meus estudos e projetos em **Python e engenharia backend**. Utilizo IA generativa para apoiar especificação, implementação, testes, documentação e revisão de código, mantendo atenção à validação dos resultados.
 
----
+## 🚀 Projetos em destaque
 
-## 🚀 O que estou construindo agora
+### 🏠 [SeuLeilão — showcase técnico](https://github.com/Breno3B/seu-leilao-showcase)
 
-### SeuLeilão
+Plataforma pessoal **em desenvolvimento** para análise de imóveis em leilão e apoio à decisão. O showcase apresenta decisões de arquitetura, fluxos e documentação de uma aplicação baseada em **Python, Django, PostgreSQL, Celery e Redis**. O backend do produto permanece privado; o site é uma apresentação técnica, não a aplicação operacional.
 
-Plataforma em desenvolvimento para apoiar a análise e tomada de decisão na aquisição de imóveis em leilão.
+**[Ver apresentação (PT)](https://breno3b.github.io/seu-leilao-showcase/)** · **[English](https://breno3b.github.io/seu-leilao-showcase/en/)**
 
-**Tecnologias e conceitos presentes no projeto:**
+### 🧠 [ClaraMente — agente local de IA](https://github.com/Breno3B/ClaraMente)
 
-- Python · Django
-- PostgreSQL
-- Redis e Celery
-- Docker
-- Testes automatizados
-- Coleta e processamento de dados
-- Documentação técnica e ADRs
-- Fluxos de revisão e validação
+Projeto educacional de análise de finanças pessoais fictícias com **Python, pandas, Streamlit, Ollama e Qwen3:4b**. A aplicação original roda localmente; o GitHub Pages oferece uma **demonstração estática interativa**, com respostas predefinidas, sem executar o modelo de IA.
 
-O projeto utiliza desenvolvimento assistido por IA de forma intensiva, com definição de requisitos, criação e refinamento de prompts, validação e revisão técnica das soluções geradas, testes e evolução iterativa.
+**[Experimentar demonstração (PT)](https://breno3b.github.io/ClaraMente/)** · **[English](https://breno3b.github.io/ClaraMente/en/)**
 
-> O repositório permanece privado enquanto o produto evolui para uma solução operacional.
+### 📊 [Portal da Transparência — integração de dados](https://github.com/Breno3B/portal-transparencia-scraping)
 
----
+Projeto Python de coleta e disponibilização de despesas públicas. Inclui uma aplicação original com **Selenium, pandas, MySQL e Flask** e um pipeline separado com **API oficial da CGU, GitHub Actions, testes e publicação de JSON**. O dashboard apresenta uma **amostra parcial de dados oficiais**, com filtros, ordenação e informações sobre sua cobertura — não totais nacionais.
 
-## 🧪 Outros projetos
+**[Explorar dashboard (PT)](https://breno3b.github.io/portal-transparencia-scraping/)** · **[English](https://breno3b.github.io/portal-transparencia-scraping/en/)**
 
-### [ClaraMente](https://github.com/Breno3B/dio-lab-bia-do-futuro)
+### Outros estudos
 
-Agente local para análise de dados financeiros pessoais fictícios, desenvolvido em Python com pandas, Streamlit e LLM local.
+- [Comparação de modelos para detecção de fraudes](https://github.com/Breno3B/dio-fraud-detection-model-comparison) — estudo de machine learning com diferentes modelos e métricas.
+- [Engenharia de prompts com NotebookLM](https://github.com/Breno3B/dio-notebooklm-engenharia-prompts) — projeto de aprendizado em IA.
 
-### [Fraud Detection Model Comparison](https://github.com/Breno3B/dio-fraud-detection-model-comparison)
+## 🛠️ Tecnologias e experiência
 
-Comparação de modelos de Machine Learning para detecção de fraudes, incluindo Logistic Regression, Random Forest, XGBoost e SHAP.
+| Contexto | Tecnologias e práticas |
+| --- | --- |
+| Projetos e estudos atuais | Python, Django, Flask, pandas, PostgreSQL, MySQL, Docker, GitHub Actions, testes, integração com APIs e IA generativa |
+| Experiência profissional em desenvolvimento | PHP, Laravel, PostgreSQL, APIs REST, PHPUnit, Bitbucket, Composer, Postman, Docker e Linux |
+| Formação e contato anterior | JavaScript, Node.js, React e SQL |
 
-### [Agilize Backend Challenge](https://github.com/Breno3B/agilize-backend-challenge)
+## 💼 Trajetória
 
-Desafio seletivo para backend desenvolvido em Python/Flask, com web scraping, persistência em banco relacional e disponibilização dos dados via API REST.
+Na **Agilize**, trabalhei na implementação e manutenção de funcionalidades backend, regras de negócio e APIs REST, além de investigar problemas por meio de logs, consultas SQL, reprodução de erros, testes e debugging. Também participei do fluxo de pull requests e deploy.
 
----
+Anteriormente, atuei por mais de uma década na **TOTVS**, em atividades de testes de software, infraestrutura, suporte, operações e coordenação de equipes.
 
-## 🧰 Stack
+Meu objetivo atual é retornar ao desenvolvimento, com foco em **vagas de backend Python, APIs, automações e integrações**. Busco oportunidades preferencialmente remotas.
 
-### Atual
+## 📬 Contato
 
-`Python` `Django` `PostgreSQL` `REST APIs` `Docker` `Git` `Linux`
-
-### Experiência profissional
-
-`PHP` `Laravel` `PHPUnit` `Bitbucket` `Composer` `Postman`
-
-### Também estudei / utilizei
-
-`JavaScript` `Node.js` `React` `SQL`
-
----
-
-## 💼 Experiência
-
-Atuei profissionalmente no desenvolvimento e manutenção de aplicações backend, APIs REST e regras de negócio.
-
-Minha experiência inclui investigação e correção de bugs em ambientes de desenvolvimento, homologação e produção, com atividades como:
-
-- reprodução de problemas;
-- análise de logs;
-- consultas em PostgreSQL;
-- validação de dados;
-- testes de APIs com Postman;
-- análise de requests e responses;
-- debugging;
-- criação de logs temporários;
-- execução e criação de testes;
-- correção de código;
-- abertura de pull requests;
-- acompanhamento do processo de deploy.
-
-Também possuo uma trajetória anterior em tecnologia com experiência em testes de software, infraestrutura, suporte, operações e coordenação de equipes em ambientes corporativos e de missão crítica.
-
----
-
-## 📚 Atualmente
-
-- Retomando e aprofundando Python para backend
-- Desenvolvendo projetos pessoais com foco em aplicações reais
-- Utilizando IA generativa como ferramenta de engenharia de software
-- Aprofundando conhecimentos em backend, automação e aplicações de IA
-
----
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/brenorm/) · [E-mail](mailto:brenorm@gmail.com)
-
-<!--
-## 📊 GitHub
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Breno3B&show_icons=true&hide_title=true"
-    alt="GitHub stats"
-  />
-</p>
--->
+[LinkedIn](https://www.linkedin.com/in/brenorm/) · [Portfólio SeuLeilão](https://breno3b.github.io/seu-leilao-showcase/) · [E-mail](mailto:brenorm@gmail.com)
