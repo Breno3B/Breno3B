@@ -33,19 +33,6 @@ Projeto Python de coleta e disponibilização de despesas públicas. Inclui uma 
 - [Comparação de modelos para detecção de fraudes](https://github.com/Breno3B/dio-fraud-detection-model-comparison) — estudo de machine learning com diferentes modelos e métricas.
 - [Engenharia de prompts com NotebookLM](https://github.com/Breno3B/dio-notebooklm-engenharia-prompts) — projeto de aprendizado em IA.
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno3B&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" alt="Estatísticas públicas do GitHub de Breno3B" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Breno3B&amp;theme=transparent&amp;hide_border=true" alt="Sequência de contribuições públicas no GitHub" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno3B&amp;layout=compact&amp;langs_count=7&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true" alt="Linguagens dos repositórios públicos de Breno3B" height="180" />
-</p>
-
-<sub>Indicadores automáticos de serviços externos. O gráfico de linguagens representa a composição dos repositórios públicos, não proficiência profissional. Contribuições privadas podem não aparecer.</sub>
-
 ## 🛠️ Tecnologias e experiência
 
 | Contexto | Tecnologias e práticas |
@@ -65,3 +52,16 @@ Meu objetivo atual é retornar ao desenvolvimento, com foco em **vagas de backen
 ## 📬 Contato
 
 [LinkedIn](https://www.linkedin.com/in/brenorm/) · [Portfólio SeuLeilão](https://breno3b.github.io/seu-leilao-showcase/) · [E-mail](mailto:brenorm@gmail.com)
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Breno3B&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" alt="Estatísticas públicas do GitHub de Breno3B" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Breno3B&amp;theme=transparent&amp;hide_border=true" alt="Sequência de contribuições públicas no GitHub" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno3B&amp;layout=compact&amp;langs_count=7&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true" alt="Linguagens dos repositórios públicos de Breno3B" height="180" />
+</p>
+
+<sub>Indicadores automáticos de serviços externos. O gráfico de linguagens representa a composição dos repositórios públicos, não proficiência profissional. Contribuições privadas podem não aparecer.</sub>
