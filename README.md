@@ -64,4 +64,4 @@ Meu objetivo atual é retornar ao desenvolvimento, com foco em **vagas de backen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno3B&amp;layout=compact&amp;langs_count=7&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true" alt="Linguagens dos repositórios públicos de Breno3B" height="180" />
 </p>
 
-<sub>Indicadores automáticos de serviços externos. O gráfico de linguagens representa a composição dos repositórios públicos, não proficiência profissional. Contribuições privadas podem não aparecer.</sub>
+<!-- <sub>Indicadores automáticos de serviços externos. O gráfico de linguagens representa a composição dos repositórios públicos, não proficiência profissional. Contribuições privadas podem não aparecer.</sub> -->
